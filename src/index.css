@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-bg-color{
+    background-color: #FFE9D0;
+}
+
+
+.see{
+    text-decoration: none;
+}
+
+.heading{
+    text-decoration: none;
+}
+

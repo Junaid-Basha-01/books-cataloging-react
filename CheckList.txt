@@ -1,0 +1,6 @@
+Author search page is done
+Book search page is done
+Individual book page needs to be created
+Clicking on book from book search page or author search page has to lead to individual book page.
+
+In the end, the author and booksearch page shouldn't exist. You should be able to just redirect to them from the searchbar.
